@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Nordic-qt6
+Description=Nordic sddm theme modified for qt6
+Author=ComeOnBear
+Copyright=(c) 2019, Eliver Lara
+License=GPL 3+
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/ComeOnBear/Nordic-SDDM-qt6
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=redacted@example.com
+Theme-Id=Nordic
+Theme-API=2.0
